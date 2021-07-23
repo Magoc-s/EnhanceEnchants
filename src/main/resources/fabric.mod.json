@@ -3,14 +3,14 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "EnhanceEnchants",
+  "description": "This mod adds a range of new and exciting enchantments into Minecraft!",
   "authors": [
-    "Me!"
+    "Magoc"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/Magoc-s/EnhanceEnchants/wiki",
+    "sources": "https://github.com/Magoc-s/EnhanceEnchants/"
   },
 
   "license": "CC0-1.0",
